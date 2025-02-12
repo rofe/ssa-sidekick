@@ -1,0 +1,22 @@
+{
+  "name": "@adobe/ssa-sidekick",
+  "version": "0.0.1",
+  "description": "AEM Sidekick SSA Add-On",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rofe/ssa-sidekick"
+  },
+  "author": "Adobe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rofe/ssa-sidekick/issues"
+  },
+  "homepage": "https://www.aem.live/",
+  "devDependencies": {
+    "eslint": "8.57.1"
+  }
+}
